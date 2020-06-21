@@ -1,2 +1,2 @@
 # practice_git
-This is my practive git repo 
+This is my practice git repo 
